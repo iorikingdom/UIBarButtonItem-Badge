@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/mikeMTOL/UIBarButtonItem-Badge.git" }
 
-  s.platform     = :ios, '6.0'
+  s.platform     = :ios, '12.0'
 
   s.source_files = 'UIBarButtonItem+Badge.{h,m}', 'UIButton+Badge.{h,m}'
   s.requires_arc = true
